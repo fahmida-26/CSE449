@@ -10,4 +10,4 @@ ID: 22241167
 
 Section: 2
 
-Course: CSE 431 (NLP) 
+Course: CSE449 
