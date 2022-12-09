@@ -1,10 +1,10 @@
-Link of the Youtube Video: 
+Link of the Youtube Video: https://youtu.be/RVG2Mr-3kYk
 
 Conference submitted paper / paper submission / login Link:
 
 
 Paper title:
-Federated Learning in the Healthcare Industry
+A Prescription Image Based Federated Learning for the Healthcare Industry
 
 Paper presentation (anyone can view without login):
 
